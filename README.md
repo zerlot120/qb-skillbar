@@ -1,6 +1,6 @@
 # qb-skillbar
-Skill Bar For QB-Core
-
+Edited of QBCore skillbar by zerlot120 into Nopixel 4.0 inspired skillbar design
+Enjoy!
 # License
 
     QBCore Framework
